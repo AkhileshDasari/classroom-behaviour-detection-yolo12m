@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['bowed_down', 'non_attentive', 'sleeping', 'standing', 'watching_phone', 'working']
+
+roboflow:
+  workspace: akhilesh-dasari-s-workspace
+  project: classroom-detection-hrpjl
+  version: 3
+  license: Private
+  url: https://app.roboflow.com/akhilesh-dasari-s-workspace/classroom-detection-hrpjl/3
