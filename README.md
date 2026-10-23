@@ -6,8 +6,8 @@ The goal is to identify observable classroom activities from video frames, such 
 <p align="left">
   <img src="https://img.shields.io/badge/model-YOLOv12m-blueviolet" alt="YOLOv12m">
   <img src="https://img.shields.io/badge/task-object%20detection-blue" alt="Object Detection">
-  <img src="https://img.shields.io/badge/classes-8-informational" alt="6 classes">
-  <img src="https://img.shields.io/badge/mAP50-0.65-success" alt="mAP50 0.86">
+  <img src="https://img.shields.io/badge/classes6-informational" alt="6 classes">
+  <img src="https://img.shields.io/badge/mAP50-0.81-success" alt="mAP50 0.81">
   <img src="https://img.shields.io/badge/framework-Ultralytics-orange" alt="Ultralytics">
   <img src="https://img.shields.io/badge/python-3.9%2B-yellow" alt="Python 3.9+">
 </p>
